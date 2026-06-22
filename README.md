@@ -4,7 +4,7 @@ CRM Data Quality Automation
 
 CRM Data Quality Automation is an AI-powered workflow that cleans, validates, standardizes, and deduplicates business data using a combination of rule-based processing and local Large Language Models (LLMs).
 
-Built with n8n, Ollama, PostgreSQL, Google Sheets, and Gmail, the workflow helps organizations improve data quality before importing records into CRM, ERP, analytics, and reporting systems.
+The workflow helps organizations improve data quality before importing records into CRM, ERP, analytics, and reporting systems.
 
 The solution reduces manual spreadsheet cleanup, minimizes human error, and ensures that business data remains accurate and consistent.
 
