@@ -1,6 +1,6 @@
 Project Overview
 
-AI Data Cleaner MVP is an automation workflow that cleans, validates, standardizes, and deduplicates business data using a combination of rule-based processing and local AI models.
+CRM Data Quality Automation is an automation workflow that cleans, validates, standardizes, and deduplicates business data using a combination of rule-based processing and local AI models.
 
 The workflow is designed to reduce manual spreadsheet cleanup and improve data quality before importing data into CRM, ERP, or analytics systems.
 
