@@ -90,14 +90,6 @@ The goal is to show how AI can reduce repetitive operational work while improvin
 
 ---
 
-## Author
-
-Dianne Delgado
-
-An engineer focused on building AI-powered business automation systems that streamline operations and reduce manual work.
-
----
-
 Results
 
 The workflow automatically:
@@ -108,3 +100,12 @@ Standardizes formatting
 Creates clean output sheets
 Generates execution summaries
 Sends email notifications
+
+
+---
+
+## Author
+
+Dianne Delgado
+
+An engineer focused on building AI-powered business automation systems that streamline operations and reduce manual work.
